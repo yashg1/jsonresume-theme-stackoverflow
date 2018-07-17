@@ -11,6 +11,7 @@
   "main": "index.js",
   "dependencies": {
     "handlebars": "^4.0.10",
+    "jsonresume-theme-stackoverflow": "^1.4.0",
     "moment": "^2.18.1"
   }
 }
