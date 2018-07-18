@@ -2,6 +2,10 @@
   "basics": {
     "name": "Yash Ganatra",
     "label": "Mechanical Engineer",
+<<<<<<< HEAD
+=======
+    "picture": "",
+>>>>>>> 602e785ff75fd62ab7ecd819e61af84fb2456b8b
     "email": "gyash@protonmail.com",
     "phone": "(765) 609-180",
     "website": "https://yashg1.github.io",
@@ -53,6 +57,19 @@
         "Tranmission system design in SoldiWorks CAD ",
         "Static and dymnamic FEA analysis in SolidWorks Simulation and verification with empirical calculations",
         "Design verification, material testing and failure analysis to meet SAE standards"
+      ]
+    },
+    {
+      "company": "Heat Transfer Simulation of Phase Change in MATLAB & ANSYS FLUENT",
+      "position": "Multiple Projects (Undergrad and Grad school)",
+      "website": "https://bit.ly/2mqmrQD",
+      "startDate": "2016-01-01",
+      "endDate": "2016-15-01",
+      "summary": "Developed customizable and robust phase change CFD simulation model",
+      "highlights": [
+        "Validated model with analytical solution and refined mesh to improve solution accracy",
+        "Enhanced model capability by addding scripts programed in C (UDF) in ANSYS FLUENT",
+        "Developed 2D CFD solver from first principles in MATLAB"
       ]
     }
   ],
