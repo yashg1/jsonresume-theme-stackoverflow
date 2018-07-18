@@ -3,7 +3,7 @@
     "name": "Yash Ganatra",
     "label": "Mechanical Engineer",
     "picture": "",
-    "email": "gyah@protonmail.com",
+    "email": "gyash@protonmail.com",
     "phone": "(765) 609-180",
     "website": "https://yashg1.github.io",
     "summary": "",
@@ -38,7 +38,7 @@
       "endDate": "2016-12-06",
       "summary": "(Masters Thesis) Develop experiments and simulations to cool smartphones using Phase Change Materials (PCMs)",
       "highlights": [
-        "Demonstrated that PCMs can signifcantly lower peak processor temperatures (1.5-3x) and boost performance",
+        "Demonstrated that PCMs signifcantly lower peak processor temperatures (1.5-3x)",
         "Developed a thermal test setup and measured temperature using IR camera ",
         "Validated 3D phone and processor level heat transfer with experiments"
       ]
@@ -55,6 +55,19 @@
         "Tranmission system design in SoldiWorks CAD ",
         "Static and dymnamic FEA analysis in SolidWorks Simulation and verification with empirical calculations",
         "Design verification, material testing and failure analysis to meet SAE standards"
+      ]
+    },
+    {
+      "company": "Heat Transfer Simulation of Phase Change in MATLAB & ANSYS FLUENT",
+      "position": "Multiple Projects (Undergrad and Grad school)",
+      "website": "https://bit.ly/2mqmrQD",
+      "startDate": "2016-01-01",
+      "endDate": "2016-15-01",
+      "summary": "Developed customizable and robust phase change CFD simulation model",
+      "highlights": [
+        "Validated model with analytical solution and refined mesh to improve solution accracy",
+        "Enhanced model capability by addding scripts programed in C (UDF) in ANSYS FLUENT",
+        "Developed 2D CFD solver from first principles in MATLAB"
       ]
     }
   ],
