@@ -2,11 +2,9 @@
   "basics": {
     "name": "Yash Ganatra",
     "label": "Mechanical Engineer",
-    "picture": "",
-    "email": "gyah@protonmail.com",
+    "email": "gyash@protonmail.com",
     "phone": "(765) 609-180",
     "website": "https://yashg1.github.io",
-    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,11 +21,11 @@
       "website": "https://syscon-intl.com",
       "startDate": "2017-02-20",
       "endDate": "",
-      "summary": "Lead product development to make thermocouple based temperature measurement systems for high temperatures (2000-3000°F)",
+      "summary": "Leads product development to make thermocouple based temperature measurement systems for high temperatures (2000-3000°F)",
       "highlights": [
-        "Developed product specifications from customer and sales team feedback",
+        "Develop product specifications from customer and sales team feedback",
         "Test and troubleshoot prototypes to recommend design improvements",
-        "Establish positive customer and vendor relationships and represent Syscon at conferences"
+        "Qualify  vendors and establish positive customer and vendor relationships"
       ]
     },
     {
@@ -36,9 +34,9 @@
       "website": "https://bit.ly/2Nm4cXW",
       "startDate": "2014-08-30",
       "endDate": "2016-12-06",
-      "summary": "(Masters Thesis) Develop experiments and simulations to cool smartphones using Phase Change Materials (PCMs)",
+      "summary": "(Masters Thesis) Feasibility study of cooling smartphones using Phase Change Materials (PCMs)",
       "highlights": [
-        "Demonstrated that PCMs can signifcantly lower peak processor temperatures (1.5-3x) and boost performance",
+        "Demonstrated that PCMs signifcantly lower peak processor temperatures (1.5-3x)",
         "Developed a thermal test setup and measured temperature using IR camera ",
         "Validated 3D phone and processor level heat transfer with experiments"
       ]
@@ -46,7 +44,7 @@
     {
       "company": "BAJA SAE India",
       "position": "Transmission Engineer",
-      "website": "",
+      "website": "https://bit.ly/2NpnvQg",
       "startDate": "2012-02-01",
       "endDate": "2014-05-01",
       "summary": "(Undergrad project) Wear multiple hats to build an off road vehicle",
@@ -78,7 +76,6 @@
       "studyType": "Masters",
       "startDate": "2014-08-16",
       "endDate": "2016-12-06",
-      "gpa": "",
       "courses": [
         "Adv. Heat Transfer / CFD",
         "Two Phase Flows",
@@ -86,12 +83,12 @@
       ]
     },
     {
-      "institution": "Vellore Institute of Technology, India (GPA: 9.03/10)",
+      "institution": "Vellore Institute of Technology, India",
       "area": "Mechanical Engineering",
       "studyType": "Bachelors",
       "startDate": "2010",
       "endDate": "2014",
-      "gpa": "",
+      "gpa": "9.03/10",
       "courses": [
         "Mechanical Design",
         "FEA",
@@ -180,10 +177,5 @@
   ],
   "languages": [],
   "interests": [],
-  "references": [
-    {
-      "name": "Available on request",
-      "reference": ""
-    }
-  ]
+  "references": []
 }

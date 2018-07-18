@@ -10,8 +10,16 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
+    "fresh-theme-underscore": "^0.1.1",
+    "hackmyresume": "^1.9.0-beta",
     "handlebars": "^4.0.10",
+    "jsonresume-theme-classy": "^1.0.9",
+    "jsonresume-theme-elegant": "^1.11.2",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-kendall": "^0.1.19",
+    "jsonresume-theme-paper": "^0.3.5",
     "jsonresume-theme-stackoverflow": "^1.4.0",
+    "jsonresume-theme-wb-elegant": "^0.10.2",
     "moment": "^2.18.1"
   }
 }
